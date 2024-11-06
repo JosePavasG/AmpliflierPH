@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Amplifier_PH Member=C15
+Removed Member From Class: ClassName=LDO_3V3 Member=C18
+Add Pin To Net: Unknown Pin: Pin U2-5
+Added Member To Class: ClassName=Amplifier_PH Member=Component C14 GRM188R60J106ME47D
+Added Member To Class: ClassName=LDO_3V3 Member=Component C16 10Uf
+Added Member To Class: ClassName=ADC_LevelConverter Member=Component C17 1uF

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VDD Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=S2-2
+Removed Member From Class: ClassName=ADC_LevelConverter Member=S1
+Removed Member From Class: ClassName=ADC_LevelConverter Member=S2
+Added Component: Designator=J4(Jumper 3 Pin)
+Added Pin To Net: NetName=VDD Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R12-1
+Added Net: Name=NetJ4_2
+Added Member To Class: ClassName=ADC_LevelConverter Member=Component J4 JUMPER

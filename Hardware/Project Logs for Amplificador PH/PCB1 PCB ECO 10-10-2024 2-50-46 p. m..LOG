@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC13_1 Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Member To Class: ClassName=Amplifier_PH Member=Component C12 C1210C107M9PACTU
+Added Member To Class: ClassName=Amplifier_PH Member=Component C13 C1210C107M9PACTU
+Added Member To Class: ClassName=LDO_3V3 Member=Component C14 10Uf
+Added Member To Class: ClassName=ADC_LevelConverter Member=Component C17 1uF
+Added Member To Class: ClassName=Amplifier_PH Member=Component U2 LM2660M/NOPB

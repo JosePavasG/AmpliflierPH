@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:44:46 a. m. On 5/11/2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Production] of Project [Amplificador PH.PrjPcb]
+   Generated File[Bill of Materials-Amplificador PH(Production).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:44:50 a. m. On 5/11/2024

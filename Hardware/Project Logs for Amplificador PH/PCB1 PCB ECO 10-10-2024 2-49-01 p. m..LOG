@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=C16 NewDesignator=C15
+Change Component Designator: OldDesignator=C17 NewDesignator=C16
+Change Component Designator: OldDesignator=C18 NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC12_2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=U2-5
+Added Pin To Net: NetName=NetC13_1 Pin=U2-6
+Added Net: Name=NetC13_1
+Added Member To Class: ClassName=Amplifier_PH Member=Component C12 C1210C107M9PACTU

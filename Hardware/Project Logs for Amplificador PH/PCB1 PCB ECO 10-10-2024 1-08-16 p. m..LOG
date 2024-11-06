@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=-5 Pin=C12-1
+Added Pin To Net: NetName=+5 Pin=C14-1
+Added Pin To Net: NetName=-5 Pin=U2-5
+Added Pin To Net: NetName=+5 Pin=U2-8

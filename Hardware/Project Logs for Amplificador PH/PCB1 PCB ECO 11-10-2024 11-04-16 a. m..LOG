@@ -1,0 +1,4 @@
+Added Component: Designator=Fi1(FIDUCIAL_TEST_PCB_2C)
+Added Component: Designator=Fi2(FIDUCIAL_TEST_PCB_2C)
+Added Member To Class: ClassName=main Member=Component Fi1 HOLE
+Added Member To Class: ClassName=main Member=Component Fi2 HOLE

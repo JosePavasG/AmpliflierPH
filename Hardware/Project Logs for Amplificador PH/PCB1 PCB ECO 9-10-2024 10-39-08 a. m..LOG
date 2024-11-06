@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VDD Pin=R12-1
+Change Footprint: Footprint Not Found FP-U_FL-R-SMT-1_10-MFG
+Added Component: Designator=S1(SMD_STRAFT  CIRCULAR NO)
+Add component (AddParameter): Name = "Height"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartGroup"; Value = "Mechanical devices,PCB implemented components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SMD-STRAP_0603_CLOSED"; VariantName = "[No Variations]"
+Added Component: Designator=S2(SMD_STRAFT  CIRCULAR NO)
+Add component (AddParameter): Name = "Height"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartGroup"; Value = "Mechanical devices,PCB implemented components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SMD-STRAP_0603_CLOSED"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J3-4
+Added Pin To Net: NetName=VDD Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=S1-1
+Added Pin To Net: NetName=NetR12_1 Pin=S2-1
+Added Net: Name=NetR12_1
+Added Member To Class: ClassName=ADC_LevelConverter Member=Component S1 SMD-STRAP Circular NO
+Added Member To Class: ClassName=ADC_LevelConverter Member=Component S2 SMD-STRAP Circular NO
